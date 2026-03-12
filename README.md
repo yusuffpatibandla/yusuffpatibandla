@@ -17,7 +17,23 @@
 - Git
 - VS Code
 
+## 🛠 Technologies
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ---
+
+## 📊 GitHub Stats
+
+![Yusuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuffpatibandla&show_icons=true&theme=default)
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusuffpatibandla)
 
 ## 📌 Projects
 

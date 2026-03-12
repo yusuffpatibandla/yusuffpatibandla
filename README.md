@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yusuff Patibandla 👋
 
-<!--
-**yusuffpatibandla/yusuffpatibandla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science (Data Science) Student  
+💻 Python Developer | Full Stack Web Development  
+🤖 Interested in Artificial Intelligence & Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- JavaScript
+- HTML & CSS
+- Django
+- MySQL
+- MongoDB
+- Git
+- VS Code
+
+---
+
+## 📌 Projects
+
+- Weather Detection Web Application
+- AI Chatbot Automation System
+- Python Automation Tools
+- E-Commerce Web Application
+
+---
+
+## 📫 Contact
+call: 9866221851
+Email: yusuffpatibandla@gmail.com  / yusuffpatibandla101103@gmail.com
+Location: Guntur, Andhra Pradesh, India

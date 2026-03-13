@@ -1,4 +1,4 @@
-![Banner](linkedin banner.jpg)
+
 <p align="center">
   <img src="linkedin banner.jpg">
 </p>

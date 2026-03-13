@@ -1,6 +1,6 @@
 ![Banner](linkedin banner.jpg)
 <p align="center">
-  <img src="banner.jpg">
+  <img src="linkedin banner.jpg">
 </p>
 
 

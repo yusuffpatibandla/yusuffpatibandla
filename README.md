@@ -1,3 +1,9 @@
+![Banner](linkedin banner.jpg)
+<p align="center">
+  <img src="banner.jpg">
+</p>
+
+
 # Hi, I'm Yusuff Patibandla 👋
 
 🎓 B.Tech Computer Science (Data Science) Student  
